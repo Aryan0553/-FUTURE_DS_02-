@@ -40,6 +40,8 @@ Which campaigns drive higher user engagement?
 How does ROI vary across different campaigns?
 What insights can help optimize future marketing strategies?
 
-
+7. Screenshots/demos
+show what the dashboard looks like - [Alt Text](https://github.com/Aryan0553/-FUTURE_DS_02-/blob/main/Snapshot%20of%20the%20dashboard.png)
+Example: [dashboard preview](https://github.com/Aryan0553/-FUTURE_DS_02-/blob/main/Snapshot%20of%20the%20dashboard.png)
 
 
